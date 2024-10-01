@@ -29,3 +29,6 @@ This project analyzes search terms data from an e-commerce web server and uses a
 
 ## Conclusion
 This project showcases the integration of Spark for data analysis and machine learning, demonstrating how to leverage big data technologies in real-world applications.
+
+## License
+This project is licensed under the MIT License. Note that it is part of the IBM Data Engineer Professional Certificate program, and original materials may have their own licensing restrictions.
